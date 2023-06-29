@@ -1,2 +1,2 @@
-# ElevatorwithLabView
-Simple Elevator Functionality with LabView 
+# LabView and TestStand 
+Simple Program that checkes if numbers is within the limit.
